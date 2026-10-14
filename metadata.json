@@ -1,0 +1,6 @@
+{
+  "name": "L'Atelier Culinaire",
+  "description": "L'art de bien cuisiner au quotidien : recettes de saison, astuces de chefs, planificateur de repas et inspirations gourmandes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
